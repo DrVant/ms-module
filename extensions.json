@@ -1,0 +1,12 @@
+[
+    {
+        "name" : "MoonSharp Ecommerce",
+        "description" : "MoonSharp Ecommerce From Codecanyon - $20",
+        "author" : "Richard Huawei",
+        "version" : "3.2",
+        "compatible" : ">=3.0.0",
+        "path" : "moonsharpbuilder/ecommerce",
+        "url" : "https://codecanyon.net/item/cicool-page-form-rest-api-and-crud-generator/19207897",
+        "icon" : "https://github.com/moonsharpbuilder/material-theme/blob/master/logo.png?raw=true"
+    }
+]
